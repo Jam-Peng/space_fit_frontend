@@ -1,0 +1,9 @@
+.detail_background {
+  background-image: linear-gradient(rgba(5, 150, 105, 0.5), rgba(0, 0, 0, 0.5)),
+    url("https://front-gym.web.app/img/general-bg.588ab551.jpg");
+  width: 100vw;
+  height: 35vh;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
