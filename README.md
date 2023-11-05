@@ -9,7 +9,7 @@
 後台 --> https://github.com/Jam-Peng/space_fit_backend <br>
 伺服器 --> https://github.com/Jam-Peng/space_fit_server
 
->⚠ 由於將資料庫部署 Aws 選擇較低的 CPU 配置，影響應用程序與數據庫查詢的時間增加，降低網頁加載速度。
+>⚠ 由於資料庫部署 Aws 選擇較低的 CPU 配置，影響應用程序與數據庫查詢的時間增加，降低網頁加載速度，建議可下載至本地端運行。
 
 ###  Preview :
 
@@ -38,7 +38,7 @@
 ## 專案說明
 - 模擬健身中心售課網站與後台管理系統。
 - 透過 Flask API 將前台與伺服器做資料的整合與應用。
-- 部署資料庫於 aws-RDS。
+- 測試部署資料庫於 aws-RDS 運行。
 - <a href="https://drive.google.com/file/d/1ouSLLthYRuK4FpqqMMT-b_NHTJucPT5O/view?usp=sharing" target="_blank">開啟線上完整專案指南</a>
 
 #
@@ -59,7 +59,7 @@
 - `geopy`
 - `timezonefinder`
 - `axios`
-- `Bootstrap 5`
+- `Tailwind CSS`
 - `jwt-decode`
 
 
